@@ -1,0 +1,14 @@
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/bin/Debug/net8.0/EvenAndOddNumbers
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/bin/Debug/net8.0/EvenAndOddNumbers.deps.json
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/bin/Debug/net8.0/EvenAndOddNumbers.runtimeconfig.json
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/bin/Debug/net8.0/EvenAndOddNumbers.dll
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/bin/Debug/net8.0/EvenAndOddNumbers.pdb
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.AssemblyInfoInputs.cache
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.AssemblyInfo.cs
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.csproj.CoreCompileInputs.cache
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.dll
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/refint/EvenAndOddNumbers.dll
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.pdb
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.genruntimeconfig.cache
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/ref/EvenAndOddNumbers.dll

@@ -12,3 +12,4 @@
 /Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.pdb
 /Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.genruntimeconfig.cache
 /Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/ref/EvenAndOddNumbers.dll
+/Users/oysteinvikenkallset/Programmering/C#/EvenAndOddNumbers/EvenAndOddNumbers/obj/Debug/net8.0/EvenAndOddNumbers.sourcelink.json

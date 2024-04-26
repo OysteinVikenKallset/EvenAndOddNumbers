@@ -10,12 +10,8 @@ Console.WriteLine("Skriv inn et tall");
 
 do
 {
-    try
-    {
-        userInput = Convert.ToInt32(Console.ReadLine());
-        isValidInput = true;
-    }
-    catch (System.FormatException)
+    isValidInput = int.TryParse(Console.ReadLine(), out userInput);
+    if (!isValidInput)
     {
         Console.WriteLine("Du må skrive inn et tall");
         isValidInput = false;
